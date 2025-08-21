@@ -6,82 +6,82 @@
     http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://tarolog.org.ua/</loc>
-    <lastmod>2025-01-16</lastmod>
     <priority>1.0</priority>
+    <lastmod>2025-08-16</lastmod>
   </url>
   <url>
     <loc>https://tarolog.org.ua/amp.html</loc>
-    <lastmod>2025-01-16</lastmod>
+    <lastmod>2025-08-16</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tarolog.org.ua/brends-matrusa.html</loc>
-    <lastmod>2025-01-16</lastmod>
+    <lastmod>2025-08-16</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://tarolog.org.ua/data-matrusa.html</loc>
-    <lastmod>2025-01-16</lastmod>
+    <lastmod>2025-08-16</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://tarolog.org.ua/kids-matrusa.html</loc>
-    <lastmod>2025-01-16</lastmod>
+    <lastmod>2025-08-16</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://tarolog.org.ua/love-matrusa.html</loc>
-    <lastmod>2025-01-16</lastmod>
+    <lastmod>2025-08-16</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://tarolog.org.ua/matrusa-doli.html</loc>
-    <lastmod>2025-01-16</lastmod>
+    <lastmod>2025-08-16</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://tarolog.org.ua/svichku-ochuschenna.html</loc>
-    <lastmod>2025-01-16</lastmod>
+    <lastmod>2025-08-16</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://tarolog.org.ua/svichku-pokraschenna.html</loc>
-    <lastmod>2025-01-16</lastmod>
+    <lastmod>2025-08-16</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://tarolog.org.ua/svichku-zahust.html</loc>
-    <lastmod>2025-01-16</lastmod>
+    <lastmod>2025-08-16</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://tarolog.org.ua/svichku.html</loc>
-    <lastmod>2025-01-16</lastmod>
+    <lastmod>2025-08-16</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://tarolog.org.ua/taro-month.html</loc>
-    <lastmod>2025-01-16</lastmod>
+    <lastmod>2025-08-16</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://tarolog.org.ua/taro-year.html</loc>
-    <lastmod>2025-01-16</lastmod>
+    <lastmod>2025-08-16</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://tarolog.org.ua/taro.html</loc>
-    <lastmod>2025-01-16</lastmod>
+    <lastmod>2025-08-16</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://tarolog.org.ua/thank-you.html</loc>
-    <lastmod>2025-01-16</lastmod>
+    <lastmod>2025-08-16</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://tarolog.org.ua/year-matrusa.html</loc>
-    <lastmod>2025-01-16</lastmod>
+    <lastmod>2025-08-16</lastmod>
     <priority>0.7</priority>
   </url>
 </urlset>
